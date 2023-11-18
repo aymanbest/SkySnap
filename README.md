@@ -31,11 +31,6 @@ Check out the [SkySnap Demo](https://skysnap.netlify.app/) to experience the app
 3. **Temperature Switch:**
    - Toggle between Celsius and Fahrenheit to view temperatures in your preferred unit.
 
-
-## Getting Started
-
-To use SkySnap, simply visit [https://skysnap.netlify.app/](https://skysnap.netlify.app/) and start exploring the weather in your area or any location worldwide.
-
 ## Contributions
 
 Contributions are welcome! If you encounter issues or have suggestions for improvements, feel free to [open an issue](https://github.com/aymanbest/skysnap/issues) or [submit a pull request](https://github.com/aymanbest/skysnap/pulls).
